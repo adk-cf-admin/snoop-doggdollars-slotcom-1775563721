@@ -1,0 +1,19 @@
+{
+  "name": "Snoop Dogg Dollars",
+  "short_name": "Snoop Dogg Dollars",
+  "theme_color": "",
+  "background_color": "#0A0A0C",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1775563352-logo-2-1024x683-11.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
